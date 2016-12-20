@@ -1,0 +1,37 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.freepong.game"
+        },
+        "cordova-admob": {
+            "PACKAGE_NAME": "com.freepong.game"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.freepong.game"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.freepong.game"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.freepong.game"
+        },
+        "cordova-plugin-pdialog": {
+            "PACKAGE_NAME": "com.freepong.game"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-connectivity-monitor": {
+            "PACKAGE_NAME": "com.freepong.game"
+        },
+        "cordova-google-play-services": {
+            "PACKAGE_NAME": "com.freepong.game"
+        }
+    }
+}
